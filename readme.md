@@ -37,7 +37,7 @@ models.config.c => To call by versions
 http://localhost:8501/v1/models/email_model/versions/2:predict
 ```
 
-To call by labels
+models.config.c => To call by labels
 ```
 http://localhost:8501/v1/models/email_model/labels/beta:predict
 ```
